@@ -12,3 +12,14 @@ Sin embargo no poseé la modalidad de Gateway, así que hay que adaptar alguna v
 https://github.com/things4u/ESP-1ch-Gateway
 
 Para que funcione en la tarjeta ESP32 adquirida.
+https://compatible.openmqttgateway.com/index.php/product/heltec-lora-32-v2-rtl_433/
+
+Checar igualmente como funciona el protocolo MQTT (nucleo de muchos servidores IoT), y explorar los servidores libres existentes como:
+
+https://www.chirpstack.io/
+https://mosquitto.org/
+
+o los "online"
+
+https://www.thethingsnetwork.org/
+https://thingspeak.com/
