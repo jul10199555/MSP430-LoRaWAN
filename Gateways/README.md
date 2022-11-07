@@ -9,18 +9,18 @@ https://github.com/tftelkamp/single_chan_pkt_fwd
 El repositorio nativo ofrecido por el fabricante de la tarjeta ESP32 + LoRa + LCD que se adquirió es:<br />
 https://github.com/HelTecAutomation/Heltec_ESP32
 
-Sin embargo no poseé la modalidad de Gateway, así que hay que adaptar alguna versión como:
+Sin embargo no poseé la modalidad de Gateway, así que hay que adaptar alguna versión como:<br />
 https://github.com/things4u/ESP-1ch-Gateway
 
-Para que funcione en la tarjeta ESP32 adquirida.
+Para que funcione en la tarjeta ESP32 adquirida.<br />
 https://compatible.openmqttgateway.com/index.php/product/heltec-lora-32-v2-rtl_433/
 
-Checar igualmente como funciona el protocolo MQTT (nucleo de muchos servidores IoT), y explorar los servidores libres existentes como:
+Checar igualmente como funciona el protocolo MQTT (nucleo de muchos servidores IoT), y explorar los servidores libres existentes como:<br />
 
-https://www.chirpstack.io/
-https://mosquitto.org/
+https://www.chirpstack.io/<br />
+https://mosquitto.org/<br />
 
-o los "online"
+o los "online"<br />
 
-https://www.thethingsnetwork.org/
-https://thingspeak.com/
+https://www.thethingsnetwork.org/<br />
+https://thingspeak.com/<br />
